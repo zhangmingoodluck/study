@@ -29,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shopping cart.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shopping cart.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day2/shopping cart.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
@@ -38,6 +38,16 @@
                 <element signature="e#225#1840#0" expanded="false" />
                 <element signature="e#1868#1895#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9999.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day4/9999.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/day2/list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/day2/tuple.py" />
         <option value="$PROJECT_DIR$/day2/list.py" />
         <option value="$PROJECT_DIR$/day2/shopping cart.py" />
+        <option value="$PROJECT_DIR$/day4/9999.py" />
       </list>
     </option>
   </component>
@@ -247,12 +258,16 @@
             <path>
               <item name="MIKE" type="b2602c69:ProjectViewProjectNode" />
               <item name="MIKE" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MIKE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MIKE" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MIKE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3rc1 (C:\Users\Mike.zhang\AppData\Local\Programs\Python\Python36\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -269,12 +284,12 @@
     <property name="last_opened_file_path" value="G:/学习/Python/studdy.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike.zhang\PycharmProjects\MIKE\day2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\学习\Python" />
       <recent name="C:\Users\Mike.zhang\PycharmProjects\MIKE\study" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike.zhang\PycharmProjects\MIKE\day2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -415,8 +430,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43934426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -502,13 +518,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/3levelmanul.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day1/dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -848,7 +857,7 @@
     <entry file="file://$PROJECT_DIR$/day2/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -861,6 +870,14 @@
             <element signature="e#225#1840#0" expanded="false" />
             <element signature="e#1868#1895#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/9999.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
